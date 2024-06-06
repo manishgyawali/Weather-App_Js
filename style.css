@@ -4,15 +4,25 @@
     padding: 0px;
     font-family: 'Poppins', sans-serif ;
 }
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(179, 250, 230);
+
+
+}
 .main{
     height: 600px;
     width: 500px;
    text-align: center;
     padding: 40px 35px;
-    background: linear-gradient(135deg, #00feba, #5b548a);
+    background: linear-gradient(135deg, #00feba, #6a60a7);
    margin: 100px 200px;
    border-radius: 50px;
-
+   
+  
+ 
 
 }
 .top{
