@@ -86,7 +86,7 @@ body{
 }
 .left-icon img{
     filter: brightness(0) invert(1);
-    height: 50px;
+    height: 40px;
     margin-right: 15px;
 }
 .left{
