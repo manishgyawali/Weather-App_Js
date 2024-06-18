@@ -39,3 +39,7 @@ https://github.com/manishgyawali/Weather-App_Js.git
 3. View Weather Information:
 
 - The application will display the current temperature, humidity, wind speed, and the city name.
+
+ ## Screenshot
+ 
+![Screenshot 2024-06-18 190120](https://github.com/manishgyawali/Weather-App_Js/assets/104677087/23df3471-063c-4205-bd22-2fe558ddcb52)
