@@ -3,10 +3,6 @@
 You can visit the site using this link "https://manishgyawali.github.io/Weather-App_Js/".
 
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
 
 ## Overview
 
